@@ -47,6 +47,11 @@ string="hahaha"
 print("h" in string)
 print("z" in string)
 print("h" not in string)
+
+string -->mutable
+list -->mutable
+tuple -->immutable
+set -->mutable
 """
 #6.identity operators
 

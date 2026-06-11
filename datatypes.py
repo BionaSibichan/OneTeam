@@ -12,7 +12,8 @@ t=(7,)             #this is a tuple, because of the comma
 print(type(t))
 g=set([7,5,3,7,2,1]) #creating a set from a list
 print(type(g))
-    
+
+
 set={7,5,3,7,2,1}
 print(type(set))
 print(set)
