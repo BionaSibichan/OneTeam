@@ -1,0 +1,5 @@
+*.jpg
+*.png
+*.gif
+test_folder # Ignore the entire test_folder and its contents
+test_folder/* # Ignore all files in test_folder but not the folder itself
