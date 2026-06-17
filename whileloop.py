@@ -45,7 +45,7 @@ while True:
     print("Do you want to continue? (y/n):")
     ans=input()
     if ans=='n' or ans=='N':
-     break'''
+     break
 
 #vowels start print only
 a=["Apple","Strawberry","Banana","Avacado","Grapes","Mango","Orange"]
@@ -57,4 +57,6 @@ for i in a:
 a=["Biona","Anas","Apsa","Ebin"]
 print(a[0:2])
 b=["aba","baba","chapa","dada","lala","papa"]
-print(b[0:6:2])
+print(b[0:6:2])'''
+
+
